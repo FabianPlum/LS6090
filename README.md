@@ -6,4 +6,6 @@ If your name is not on [this list](https://docs.google.com/spreadsheets/d/1MFE98
 
 To operate the system, you must first be inducted by **Fabian Plum**. Please contact him at **f.plum@imperial.ac.uk** to arrange your induction.
 
-Additionally, ensure that you only use materials listed on the **material settings sheet** to avoid damaging the equipment or compromising safety.
+For a full introduction to the system, please see the [**LS6090 SOP**](docs/SOP_LaserCutter_2024.pdf).
+
+Additionally, ensure that you only use materials listed on the [**material settings sheet**](docs/material_settings_sheet.pdf) to avoid damaging the equipment or compromising safety.
