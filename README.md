@@ -10,4 +10,4 @@ For a full introduction to the system, please see the [**LS6090 SOP**](docs/SOP_
 
 Additionally, ensure that you only use materials listed on the [**material settings sheet**](docs/material_settings_sheet.pdf) to avoid damaging the equipment or compromising safety.
 
-![LS6090 Laser Cutter](images/6090-iso-open-1000x1000.png)
+![LS6090 Laser Cutter](images/LS6090_open.png)
