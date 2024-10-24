@@ -9,3 +9,5 @@ To operate the system, you must first be inducted by **Fabian Plum**. Please con
 For a full introduction to the system, please see the [**LS6090 SOP**](docs/SOP_LaserCutter_2024.pdf).
 
 Additionally, ensure that you only use materials listed on the [**material settings sheet**](docs/material_settings_sheet.pdf) to avoid damaging the equipment or compromising safety.
+
+![LS6090 Laser Cutter](images/6090-iso-open-1000x1000.png)
